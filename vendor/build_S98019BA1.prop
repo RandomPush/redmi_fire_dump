@@ -1,0 +1,10 @@
+
+ro.product.vendor.brand=Redmi
+ro.product.vendor.name=fire_eea
+ro.product.vendor.device=fire
+ro.vendor.build.fingerprint=Redmi/fire_eea/fire:13/TP1A.220624.014/V14.0.6.0.TMXEUXM:user/release-keys
+ro.product.vendor.marketname=Redmi 12
+ro.product.vendor.model=23053RN02A
+ro.product.board=fire
+ro.bootimage.build.fingerprint=Redmi/fire_eea/fire:13/TP1A.220624.014/V14.0.6.0.TMXEUXM:user/release-keys
+
