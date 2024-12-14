@@ -1,0 +1,10 @@
+
+ro.product.vendor.brand=Redmi
+ro.product.vendor.name=fire_global
+ro.product.vendor.device=fire
+ro.vendor.build.fingerprint=Redmi/fire_global/fire:15/AP3A.240905.015.A2/OS2.0.3.0.VMXMIXM:user/release-keys
+ro.product.vendor.model=23053RN02I
+ro.product.vendor.marketname=Redmi 12
+ro.product.board=fire
+ro.bootimage.build.fingerprint=Redmi/fire_global/fire:15/AP3A.240905.015.A2/OS2.0.3.0.VMXMIXM:user/release-keys
+
